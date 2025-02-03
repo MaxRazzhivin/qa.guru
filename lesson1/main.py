@@ -1,1 +1,1 @@
-text for conflict
+another text
