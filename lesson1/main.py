@@ -1,1 +1,1 @@
-text for conflict
+texty txt
