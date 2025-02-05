@@ -1,4 +1,5 @@
 /.idea
 /venv
 .idea
+.idea/
 ../.idea/
