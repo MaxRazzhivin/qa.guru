@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d224570a-2da6-4e4a-a5ba-7ac2aee1d774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson0/gitignore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gitignore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson0/gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson0/gitignore.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/gitignore.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/maxnovo/Desktop/qa.guru"
   }
 }]]></component>
@@ -64,7 +65,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
